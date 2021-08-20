@@ -1,2 +1,2 @@
-# Hello-world
-Print("Hi I'm human")
+# Hello world
+Idk what to do;
